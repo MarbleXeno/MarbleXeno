@@ -3,4 +3,4 @@
 ## *Somewhat* fluent in C#
 ## *Wants to be* fluent in Rust & JS
 
-# Check [my YouTube Channel](https://youtube.com/@marblexeno), maybe someday I'll upload *something* there 🤷🏿‍♂️
+# Check out [my YouTube Channel](https://youtube.com/@marblexeno), perhaps someday something will be uploaded there 🤷🏿‍♂️
